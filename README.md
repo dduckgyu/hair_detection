@@ -29,4 +29,5 @@ mean average precision(mAP), Mean Absolute Error(MAE)
 
 <img src=https://github.com/gyugyukim/Survival-analysis/assets/135569056/b28556ef-d1c6-4c1c-9784-053d04802a02>
 <img src=https://github.com/gyugyukim/Survival-analysis/assets/135569056/72c9252b-b2f5-4b36-91f4-c2ae2acf5680>
+
 <img src=https://github.com/gyugyukim/Survival-analysis/assets/135569056/a5140fb1-f8a9-4c33-bc9e-19c4272e345>
