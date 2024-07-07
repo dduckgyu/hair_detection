@@ -30,4 +30,4 @@
 
 <img src=https://github.com/gyugyukim/Survival-analysis/assets/135569056/b28556ef-d1c6-4c1c-9784-053d04802a02>
 <img src=https://github.com/gyugyukim/Survival-analysis/assets/135569056/72c9252b-b2f5-4b36-91f4-c2ae2acf5680>
-<img src=https://github.com/gyugyukim/Survival-analysis/assets/135569056/85547e3a-e12c-4059-b8ab-42d3eae4f85>
+<img src=https://github.com/gyugyukim/Survival-analysis/assets/135569056/0d2e881a-2569-48b1-a56a-452ab47acd74>
