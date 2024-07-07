@@ -11,8 +11,11 @@
 <img src=https://github.com/gyugyukim/Survival-analysis/assets/135569056/b682a6f3-6cd1-4fb6-8633-83e9fbca5b60>
 
 (a) Type1 - 하나의 모낭 근처에 모발이 한 개
+
 (b) Type2 - 하나의 모낭 근처에 모발이 두 개
+
 (c) Type3 - 하나의 모낭 근처에 모발이 세 개
+
 (d) Type4 - 하나의 모낭 근처에 모발이 네 개 이상
 
 # Model
