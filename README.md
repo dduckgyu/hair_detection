@@ -29,5 +29,7 @@
 # Results
 
 <img src=https://github.com/gyugyukim/Survival-analysis/assets/135569056/b28556ef-d1c6-4c1c-9784-053d04802a02>
+- Batch Size 별 mAP 성능 비교
 <img src=https://github.com/gyugyukim/Survival-analysis/assets/135569056/72c9252b-b2f5-4b36-91f4-c2ae2acf5680>
+- Batch size에서 우수한 성능 기준, Class 별 mAP 성능 비교
 <img src=https://github.com/gyugyukim/Survival-analysis/assets/135569056/0d2e881a-2569-48b1-a56a-452ab47acd74>
